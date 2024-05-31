@@ -1,5 +1,7 @@
-package com.aluracursos.literalura.model;
+package com.aluracursos.literalura.entity;
 
+import com.aluracursos.literalura.model.Autor;
+import com.aluracursos.literalura.util.CadenasUtil;
 import jakarta.persistence.*;
 
 @Entity
